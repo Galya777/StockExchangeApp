@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\StockExchange\bin\Debug\StockExchange.dll.config
+C:\Users\hp\Desktop\StockExchange\bin\Debug\StockExchange.dll
+C:\Users\hp\Desktop\StockExchange\bin\Debug\StockExchange.pdb
+C:\Users\hp\Desktop\StockExchange\obj\Debug\StockExchange.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\StockExchange\obj\Debug\StockExchangeControl.g.cs
+C:\Users\hp\Desktop\StockExchange\obj\Debug\StockExchange_MarkupCompile.cache
+C:\Users\hp\Desktop\StockExchange\obj\Debug\StockExchange_MarkupCompile.lref
+C:\Users\hp\Desktop\StockExchange\obj\Debug\StockExchangeControl.baml
+C:\Users\hp\Desktop\StockExchange\obj\Debug\StockExchange.g.resources
+C:\Users\hp\Desktop\StockExchange\obj\Debug\StockExchange.Properties.Resources.resources
+C:\Users\hp\Desktop\StockExchange\obj\Debug\StockExchange.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\StockExchange\obj\Debug\StockExchange.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\StockExchange\obj\Debug\StockExchange.dll
+C:\Users\hp\Desktop\StockExchange\obj\Debug\StockExchange.pdb
